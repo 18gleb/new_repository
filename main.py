@@ -15,3 +15,7 @@ def hi():
 
 def privet():
     print("privet")
+
+
+def poka():
+    print("poka")
