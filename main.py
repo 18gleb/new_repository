@@ -7,3 +7,7 @@ def func(x):
 
 def hello():
     print('Hello')
+
+
+def hi():
+    print("hi")
