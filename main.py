@@ -11,3 +11,7 @@ def hello():
 
 def hi():
     print("hi")
+
+
+def privet():
+    print("privet")
